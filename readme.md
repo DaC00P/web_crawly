@@ -5,4 +5,5 @@
 
 ####To-Do List
 ##### Add real error checking for url usability, using http://stackoverflow.com/questions/1805761/check-if-url-is-valid-ruby
-##### Create a UI based on a super simple HTML page and perhaps rack to run the script? or just erb it. 
+##### Use spidr (https://github.com/postmodern/spidr) to automate in-depth crawling of a single domain.
+##### Create a UI based on a super simple HTML page and perhaps rack to run the script? or just erb it.
